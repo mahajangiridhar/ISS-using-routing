@@ -1,0 +1,46 @@
+.heading{
+    color: #383b41;
+    font-family: Montserrat,Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -.5px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.card-bod{
+    border-radius: 5px;
+    background-color: #fff;
+    border: 2px solid #46a39d;
+}
+.img{
+    height: 60px;
+    width: 55px;
+}
+.card-title{
+    color: #383b41;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Montserrat,Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    letter-spacing: -.5px;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #383b41;
+}
+.date{
+    color: #383b41;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
+}
+.calendar{
+    color: #46a39d;
+    font-family: Roboto Slab,Arial,Helvetica,sans-serif;
+    letter-spacing: 0;
+}
+// .btn:active, .btn:focus, .btn:link{
+//     border-color: none;
+//     outline-color: none;
+// }

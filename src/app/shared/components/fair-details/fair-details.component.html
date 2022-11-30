@@ -1,0 +1,116 @@
+<div class="fairDetails">
+    <div class="heroImg">
+      <img
+        src="./../../../../assets/images/hero-img.png"
+        class="fair-img"
+        alt=""
+      />
+    </div>
+    <div class="banner-info">
+      <p class="banner-title">{{obj?.fairName}}</p>
+      <p class="banner-date">{{obj?.startDate | date: 'mediumDate'}} - {{obj?.endDate | date: 'mediumDate'}}</p>
+      <div>
+        <!----><button class="register-button ng-star-inserted">
+          <div class="button-text">Upgrade to Register for Fair</div></button
+        ><!----><!---->
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="location-banner mb-5">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="calender-container">
+                <img
+                  src="./../../../../assets/images/Calendar.svg"
+                  class="date-icon"
+                />
+                <span class="text-title icon-title"> Date</span>
+                <p class="letter">{{obj?.startDate | date: 'mediumDate'}}</p>
+                <p class="letter">{{obj?.startDate | date: 'mediumDate'}}</p>
+                <p class="letter ng-star-inserted">{{obj?.fairStartTime}} - {{obj?.fairEndTime}}</p>
+                <!---->
+                <p class="letter ng-star-inserted">{{obj?.timezoneId}}</p>
+                <!---->
+                <p class="letter text-link" style="margin: 24px 0px">
+                  <span class="addCalendar text-link">Add To Calendar</span>
+                </p>
+                <p class="letter text-title">Last Registration Date</p>
+                <p class="letter">Dec 1, 2022</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="location-container">
+                <img
+                  src="./../../../../assets/images/location-pin.png"
+                  alt=""
+                  class="location-pin"
+                />
+                <span class="text-title icon-title"> Location</span>
+                <div class="lock-container ng-star-inserted">
+                  <img src="./../../../../assets/images/Lock.svg" alt="" />
+                </div>
+                <!----><!---->
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="description-block">
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="title">Description</div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="description">
+                    <p class="xmsonormal" [innerHTML]="obj?.candidateDescription">
+                        <span class="xeop">
+                            <span>
+                                &nbsp;
+                            </span>
+                        </span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="title mb-3">
+                    Related Documents
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="documents">
+                    <div class="row">
+                      <div class="col-sm-3">
+                        <div class="row doc-container">
+                          <div style="margin-left: 15px">
+                            <img alt="" src="./../../../../assets/images/PDF.svg"/>
+                          </div>
+                          <div class="col-sm-9">
+                            <p class="letter">
+                              Oct 7 2022
+                            </p>
+                            <p class="letter twenty-char">
+                              2022 iFairs Agenda.pdf
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <!---->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

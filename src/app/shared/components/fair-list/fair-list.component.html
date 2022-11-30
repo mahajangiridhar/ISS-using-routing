@@ -1,0 +1,25 @@
+<h4 class="heading">Upcoming Fairs and iFairs</h4>
+<div class="fair-list" *ngFor="let obj of mainArray">
+    <div class="btn mb-3 text-left" [routerLink]="['fair-list', obj.fairId]">
+        <div class="card-bod">
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="img">
+                        <img src="./../../../../assets/images/ISS_1800.jpg" class="img" alt="">
+                    </div>
+                </div>
+                <div class="col-md-9 ml-2">
+                    <p class="card-title">{{obj.fairName}}</p>
+                    <img src="./../../../../assets/images/Calendar.svg" alt="">
+                    <span class="date">{{obj.startDate | date: 'mediumDate'}} - {{obj.endDate| date: 'mediumDate'}}</span>
+                    <p class="calendar ml-4 mb-0">Add to Calendar</p>
+                    <img src="./../../../../assets/images/School.svg" class="mb-2" alt="">
+                    <span>{{obj.numberOfSchoolsRegistered}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

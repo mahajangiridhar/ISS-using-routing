@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E209CF31-B489-407E-9788-354C1855AF1A</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.219608 0 0 0 0 0.231373 0 0 0 0 0.254902 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.219608 0 0 0 0 0.231373 0 0 0 0 0.254902 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Super-Admin---Schools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.301432292">
+        <g id="Super-Admin---Schools---Add-A-School" transform="translate(-1510.000000, -783.000000)">
+            <g id="icon" transform="translate(1250.000000, 768.000000)" filter="url(#filter-1)">
+                <g transform="translate(257.000000, 12.000000)" id="icon/Hide" opacity="0.601934524">
+                    <g filter="url(#filter-2)" id="Calendar">
+                        <g transform="translate(3.000000, 3.000000)">
+                            <path d="M15.890625,1.40625 L15.046875,1.40625 L15.046875,0 L13.640625,0 L13.640625,1.40625 L4.359375,1.40625 L4.359375,0 L2.953125,0 L2.953125,1.40625 L2.109375,1.40625 C0.946265625,1.40625 0,2.35251562 0,3.515625 L0,15.890625 C0,17.0537344 0.946265625,18 2.109375,18 L15.890625,18 C17.0537344,18 18,17.0537344 18,15.890625 L18,3.515625 C18,2.35251562 17.0537344,1.40625 15.890625,1.40625 Z M16.59375,15.890625 C16.59375,16.2783281 16.2783281,16.59375 15.890625,16.59375 L2.109375,16.59375 C1.72167188,16.59375 1.40625,16.2783281 1.40625,15.890625 L1.40625,6.609375 L16.59375,6.609375 L16.59375,15.890625 Z M16.59375,5.203125 L1.40625,5.203125 L1.40625,3.515625 C1.40625,3.12792187 1.72167188,2.8125 2.109375,2.8125 L2.953125,2.8125 L2.953125,4.21875 L4.359375,4.21875 L4.359375,2.8125 L13.640625,2.8125 L13.640625,4.21875 L15.046875,4.21875 L15.046875,2.8125 L15.890625,2.8125 C16.2783281,2.8125 16.59375,3.12792187 16.59375,3.515625 L16.59375,5.203125 Z" id="Shape" fill="#383B41" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="2.671875" y="8.0859375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="5.484375" y="8.0859375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="8.296875" y="8.0859375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="11.109375" y="8.0859375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="13.921875" y="8.0859375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="2.671875" y="10.8984375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="5.484375" y="10.8984375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="8.296875" y="10.8984375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="11.109375" y="10.8984375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="2.671875" y="13.7109375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="5.484375" y="13.7109375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="8.296875" y="13.7109375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="11.109375" y="13.7109375" width="1.40625" height="1.40625"></rect>
+                            <rect id="Rectangle" fill="#383B41" fill-rule="nonzero" x="13.921875" y="10.8984375" width="1.40625" height="1.40625"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
